@@ -1,7 +1,7 @@
 # Candade LabWorks ⚙️✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ineshcandade/Candade-LabWorks/main/clw-logo.png" alt="CLW Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/ineshcandade/Candade-LabWorks/main/clwlogo.jpg" alt="CLW Logo" width="250"/>
 </p>
 
 
