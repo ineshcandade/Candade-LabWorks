@@ -1,6 +1,9 @@
 # Candade LabWorks ⚙️✨
 
-![CLW Logo](./clw-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ineshcandade/Candade-LabWorks/main/clw-logo.png" alt="CLW Logo" width="250"/>
+</p>
+
 
 > *"Precision, Passion, Possibility."* 💡
 
