@@ -1,6 +1,8 @@
-===============================================================================
-💡 FIRST LED BLINK: Where It All Started ✨🔁
-===============================================================================
+---
+
+# 💡 FIRST LED BLINK: Where It All Started ✨🔁
+
+---
 
 **First LED Blink** is the classic beginner’s ritual in the Arduino world — the moment the board responds and your journey officially begins. This project toggles a single LED on and off at regular intervals, marking your entry into embedded systems and physical computing.
 
