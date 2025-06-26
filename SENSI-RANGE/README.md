@@ -10,14 +10,15 @@
 
 🔥 WHAT IT DOES:  
 ----------------  
-📡 Continuously measures distance using an **HC-SR04 ultrasonic sensor**  
-🎚️ User sets detection threshold (5–50 cm) using a **potentiometer**  
-🔴 If object is too close:  
-- Red LED turns ON  
-- Buzzer sounds an alert  
-⚪ If object is at a safe distance:  
-- White LED stays ON  
-- Buzzer remains silent  
+
+- 📡 Continuously measures distance using an **HC-SR04 ultrasonic sensor**  
+- 🎚️ User sets detection threshold (5–50 cm) using a **potentiometer**  
+- 🔴 If object is too close:  
+  - Red LED turns ON  
+  - Buzzer sounds an alert  
+- ⚪ If object is at a safe distance:  
+  - White LED stays ON  
+  - Buzzer remains silent  
 
 ---
 
