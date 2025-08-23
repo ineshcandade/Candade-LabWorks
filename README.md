@@ -1,11 +1,11 @@
-# Candade LabWorks ⚙️✨
+# Candade LabWorks ⚙️💡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ineshcandade/Candade-LabWorks/main/clwlogo.jpg" alt="CLW Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/ineshcandade/Candade-LabWorks/main/CLW_Logo.jpg" alt="CLW Logo" width="250"/>
 </p>
 
 
-> *"Precision, Passion, Possibility."* 💡
+> *"Precision. Passion. Possibility."* 💡
 
 **Candade LabWorks** is the personal brand of Inesh Candade — a dedicated space capturing my journey through electronics, system design, and hands-on experimentation.  
 More than just code, this repository represents progress, learning, and evolving expertise. 📈
@@ -33,8 +33,10 @@ Here, practical exploration and clear logic take priority over perfection. 🔧�
 - ▶️ [YouTube – Candade LabWorks](https://www.youtube.com/@candadelabworks)  
 - 💻 [GitHub – ineshcandade](https://github.com/ineshcandade)  
 - 🔗 [LinkedIn – Inesh Candade](https://www.linkedin.com/in/inesh-candade)
+- 📧 [Email – candadelabworks@gmail.com](mailto:candadelabworks@gmail.com)
 
 ---
 
-© 2025 Inesh Candade  
-All rights reserved. 🔒
+© Inesh Candade  
+Personal repository for learning and documentation.
+
