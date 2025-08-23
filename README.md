@@ -1,4 +1,4 @@
-# Candade LabWorks ⚙️💡
+# Candade LabWorks ⚙️⚡
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ineshcandade/Candade-LabWorks/main/CLW_Logo.jpg" alt="CLW Logo" width="250"/>
@@ -33,7 +33,7 @@ Here, practical exploration and clear logic take priority over perfection. 🔧�
 - ▶️ [YouTube – Candade LabWorks](https://www.youtube.com/@candadelabworks)  
 - 💻 [GitHub – ineshcandade](https://github.com/ineshcandade)  
 - 🔗 [LinkedIn – Inesh Candade](https://www.linkedin.com/in/inesh-candade)
-- 📧 [Email – candadelabworks@gmail.com](mailto:candadelabworks@gmail.com)
+- 📧 [Email – candadelabworks@gmail.com](https://mail.google.com/mail/?view=cm&to=candadelabworks@gmail.com)
 
 ---
 
