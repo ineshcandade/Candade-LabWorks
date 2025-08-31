@@ -1,6 +1,6 @@
 ---
 
-# 🔐 NeoSecure: Password-Based Smart Entry System 🔢🔒📣
+# 🛡️ NeoSecure: Password-Based Smart Entry System 🔢🔒🚨
 
 ---
 
