@@ -7,15 +7,15 @@
 
 > *"Precision. Passion. Possibility."* 💡
 
-**Candade LabWorks** is the personal brand of Inesh Candade — a dedicated space capturing my journey through electronics, system design, and hands-on experimentation.  
-More than just code, this repository represents progress, learning, and evolving expertise. 📈
+**Candade LabWorks** is the personal brand of Inesh Candade — a space for exploring ideas, building projects, and learning through experimentation.
+This repository is a growing collection that showcases learning, experiments, and progress over time.📈
 
 ---
 
 ## About This Repository 🗂️
 
-This is the evolving archive of my technical work — where ideas meet implementation and growth happens step-by-step.  
-Here, practical exploration and clear logic take priority over perfection. 🔧⚡
+This space brings together my technical projects — focused on practical exploration, clear logic, and building skills through real work.
+Perfection isn’t the goal here; progress and hands-on learning are. 🔧⚡
 
 ---
 
@@ -38,5 +38,4 @@ Here, practical exploration and clear logic take priority over perfection. 🔧�
 ---
 
 © Inesh Candade  
-Personal repository for learning and documentation.
 
