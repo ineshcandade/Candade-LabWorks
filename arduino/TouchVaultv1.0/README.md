@@ -1,4 +1,3 @@
-/*
 ---
 
 # 🔐 TouchVault v1.0: Touch-Activated Secure Safe with LCD & RGB Feedback 📟🔧
@@ -92,4 +91,3 @@
 - Show tap count live on LCD  
 
 ---
-*/
