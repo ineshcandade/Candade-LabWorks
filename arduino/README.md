@@ -1,22 +1,22 @@
 ---
 
-# ⚡ Arduino Projects
+# Arduino Projects  
 
 ---
 
-This folder contains all **Arduino-based projects** under **Candade LabWorks**.  
-Projects are documented to maintain clarity and easy reference.  
+This folder contains all **Arduino-based projects** developed under **Candade LabWorks**.  
+Each project includes its own `README.md` with explanation, along with standardized source code for clarity and reuse.  
 
 ---
 
-📌 **Highlights:**  
-- Organized collection of Arduino projects  
-- Each project has its own `README.md` for explanation  
-- Code stored in `main.ino` for consistency  
+## Highlights  
+- Well-organized collection of Arduino projects  
+- Each project documented with a structured `README` for context and learning  
+- Source code consistently maintained in `main.ino`  
 
 ---
 
-📂 **Purpose:**  
-To keep projects well-documented and accessible, making it easier to revisit, learn from, or build upon in the future.  
+## Purpose  
+To maintain a clean, accessible archive of Arduino projects — making it easy to revisit concepts, demonstrate progress, and build on past work for future experiments.  
 
 ---
