@@ -5,13 +5,13 @@
 ---
 
 **First LED Blink (ESP32)** continues the classic beginner’s ritual — the LED blink — but now using an **external LED** connected to the ESP32 board.  
-This project toggles the LED at 500 ms intervals, marking the first hands-on step into embedded control and microcontroller-based IoT development.  
+This project toggles the LED at 1500 ms intervals, marking the first hands-on step into embedded control and microcontroller-based IoT development.  
 
 ---
 
 ## What It Does  
-- Turns an external LED ON for 0.5 seconds  
-- Turns it OFF for 0.5 seconds  
+- Turns an external LED ON for 1.5 seconds  
+- Turns it OFF for 1.5 seconds  
 - Repeats this loop endlessly  
 
 ---
