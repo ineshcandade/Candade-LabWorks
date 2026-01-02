@@ -68,9 +68,9 @@ Building BOLT strengthened my understanding of ESP32 Bluetooth capabilities, OLE
 
 ---
 
-## Demo
-Watch the working demo here:
-[Demo Video](https://youtu.be/DDLr5MQMI2M)
+## Demo 
+Watch the working demo here:  
+[Demo Video](https://youtu.be/DDLr5MQMI2M) 
 
 ---
 
