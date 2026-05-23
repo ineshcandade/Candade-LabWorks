@@ -1,6 +1,6 @@
 ---
 
-# DRAPE-T | Smart Rain-Aware Clothesline with Telegram Control
+# DRAPE-T – Smart Rain-Aware Clothesline with Telegram Control
 
 ---
 
@@ -96,8 +96,8 @@ This project pushed me beyond basic automation and introduced me to remote monit
 ---
 
 ## Demo
-Watch the working demo here:
-[Demo Video](https://youtu.be/5ysBq-uavSI?si=Q1F-ZB6UMozF3mND)
+Watch the working demo here:  
+[Demo Video](https://www.youtube.com/watch?v=5ysBq-uavSI)
 
 ---
 
