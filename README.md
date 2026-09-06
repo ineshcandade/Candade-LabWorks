@@ -28,13 +28,13 @@ The goal isn’t perfection, but consistent progress and hands-on learning.
 
 ---
 
-## Let’s Connect 
+## Connect 
 
 - [YouTube – Candade LabWorks](https://www.youtube.com/@candadelabworks)  
 - [GitHub – ineshcandade](https://github.com/ineshcandade)  
-- [LinkedIn – Inesh Candade](https://www.linkedin.com/in/inesh-candade)
-- [Email – candadelabworks@gmail.com](https://mail.google.com/mail/?view=cm&to=candadelabworks@gmail.com)
-
+- [LinkedIn – inesh-candade](https://www.linkedin.com/in/inesh-candade)  
+- [Email – candadelabworks@gmail.com](mailto:candadelabworks@gmail.com)
+  
 ---
 
 © Inesh Candade  
